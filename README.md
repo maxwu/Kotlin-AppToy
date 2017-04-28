@@ -1,2 +1,4 @@
 # kotlin-toy
-A bite of kotlin
+A bite of kotlin programming lanaguage.
+
+
